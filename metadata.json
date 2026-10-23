@@ -1,0 +1,6 @@
+{
+  "name": "DIMSUMANYU - Pemesanan Online",
+  "description": "Aplikasi pemesanan online resmi DIMSUMANYU #SensasiNgedaging dengan katalog menu, keranjang belanja, checkout WhatsApp, dan pembayaran QRIS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
